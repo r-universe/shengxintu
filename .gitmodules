@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "rankCorr"]
+	path = rankCorr
+	url = https://github.com/shengxintu/rankcorr
 [submodule "rankICC"]
 	path = rankICC
 	url = https://github.com/shengxintu/rankicc
